@@ -11,7 +11,7 @@
   <a href="#" target="_blank">Binxin Yang<sup>5</sup></a>,
   <a href="#" target="_blank">Hubery Yin<sup>6</sup></a>,
   <a href="#" target="_blank">Chen Li<sup>6</sup></a>,
-  <a href="#" target="_blank">Ziwei Liu<sup>6</sup></a>,
+  <a href="#" target="_blank">Ziwei Liu<sup>1</sup></a>,
   <a href="https://chenyangsi.top/" target="_blank">Chenyang Si<sup>6</sup></a>
 </p>
 
