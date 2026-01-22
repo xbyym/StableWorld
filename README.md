@@ -75,7 +75,9 @@
 Long-horizon interactive video generation often suffers from **spatial drift** and **scene collapse**.  
 We find that a major source of instability is **error accumulation within the same scene**: small drifts accumulate under the same viewpoint, eventually leading to the collapse of the entire scene.
 As illustrated below：
-![Error accumulation under a fixed viewpoint](https://github.com/xbyym/StableWorld/blob/main/show1_01.png?raw=true)
+<p align="center">
+  <img src="https://github.com/xbyym/StableWorld/blob/main/show1_01.png?raw=true" width="520"/>
+</p>
 Small drifts appear negligible at first, but when repeatedly accumulated under the same viewpoint, they gradually compound and eventually lead to severe scene collapse.
 **StableWorld** addresses this issue at the root by **continuously filtering out degraded frames** while **retaining geometrically consistent ones**, preventing drift from compounding over time.
 
