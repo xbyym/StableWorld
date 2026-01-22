@@ -34,7 +34,7 @@
 -->
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2512.13604">
+  <a href="[https://arxiv.org/abs/2512.13604](https://arxiv.org/abs/2601.15281)">
     <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat&logo=arxiv" height="22">
   </a>
   <a href="https://sd-world.github.io/">
@@ -114,11 +114,9 @@ Please see the project page for full videos and side-by-side comparisons:
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@misc{stableworld2025,
+@article{stableworld2026,
   title={StableWorld: Towards Stable and Consistent Long Interactive Video Generation},
   author={Ying Yang and Zhengyao Lv and Tianlin Pan and Haofan Wang and Binxin Yang and Hubery Yin and Chen Li and Ziwei Liu and Chenyang Si},
-  year={2025},
-  eprint={2512.13604},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  journal={arXiv preprint arXiv:2601.15281},
+  year={2026}
 }
