@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/xbyym" target="_blank">Ying Yang<sup>1</sup></a>,
-  <a href="https://scholar.google.com/citations?user=FkkaUgwAAAAJ&hl=en" target="_blank">Zhengyao Lv<sup>2</sup></a>,
-  <a href="https://tianlinn.com/" target="_blank">Tianlin Pan<sup>3</sup></a>,
+  <a href="https://scholar.google.com/citations?user=FkkaUgwAAAAJ&hl=en" target="_blank">Zhengyao Lv<sup>1,2</sup></a>,
+  <a href="https://tianlinn.com/" target="_blank">Tianlin Pan<sup>1,3</sup></a>,
   <a href="https://haofanwang.github.io/" target="_blank">Haofan Wang<sup>4</sup></a>,
   <a href="https://binxinyang.github.io/" target="_blank">Binxin Yang<sup>5</sup></a>,
   <a href="https://openreview.net/profile?id=~Hubery_Yin1" target="_blank">Hubery Yin<sup>6</sup></a>,
