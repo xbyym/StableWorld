@@ -51,14 +51,10 @@
 
 <div align="center">
 
-<!-- 方案 A：GitHub user-attachments（和你DiverseAR一样最稳） -->
-<!-- 把下面链接替换成你的视频附件链接 -->
-[![Video](https://raw.githubusercontent.com/Sd-World/Sd-World.github.io/main/thumbnail.png)](https://www.youtube.com/watch?v=M9JIGIk9hEM)
-
-<!-- 方案 B：如果你想用 project page 作为点击跳转 -->
-<!-- [![Video](https://raw.githubusercontent.com/Sd-World/Sd-World.github.io/main/thumbnail.png)](https://sd-world.github.io/) -->
+[![Video](https://raw.githubusercontent.com/Sd-World/Sd-World.github.io/main/thumbnail.png)](https://www.youtube.com/watch?v=R5XXI-oAKVU)
 
 </div>
+
 
 > If the embedded YouTube player is blocked in your region/network, please visit the project page for mirrored videos.
 
