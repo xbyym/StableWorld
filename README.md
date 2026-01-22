@@ -51,7 +51,8 @@
 
 <div align="center">
 
-[![Video](https://raw.githubusercontent.com/Sd-World/Sd-World.github.io/main/thumbnail.png)](https://www.youtube.com/watch?v=R5XXI-oAKVU)
+[![Video](https://github.com/xbyym/StableWorld/blob/main/file/new_demo.png?raw=1)](https://youtu.be/R5XXI-oAKVU)
+
 
 </div>
 
