@@ -78,7 +78,7 @@ We find that a major source of instability is **error accumulation within the sa
 As illustrated below:
 
 ![Error accumulation under a fixed viewpoint](https://github.com/xbyym/StableWorld/blob/main/show1_01.png?raw=true)
-Small drifts appear negligible at first, but when repeatedly accumulated under the same viewpoint, they gradually compound and eventually lead to severe scene collapse.
+Small drifts may seem negligible at first, but when repeatedly accumulated under the same viewpoint, they gradually grow and eventually lead to severe scene collapse.
 
 **StableWorld** addresses this issue at the root by **continuously filtering out degraded frames** while **retaining geometrically consistent ones**, preventing drift from compounding over time.
 
