@@ -34,7 +34,7 @@
 -->
 
 <p align="center">
-  <a href="[https://arxiv.org/abs/2512.13604](https://arxiv.org/abs/2601.15281)">
+  <a href="https://arxiv.org/abs/2601.15281">
     <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat&logo=arxiv" height="22">
   </a>
   <a href="https://sd-world.github.io/">
