@@ -5,24 +5,25 @@
 
 <p align="center">
   <a href="https://github.com/xbyym" target="_blank">Ying Yang<sup>1</sup></a>,
-  <a href="#" target="_blank">Zhengyao Lv<sup>2</sup></a>,
-  <a href="#" target="_blank">Tianlin Pan<sup>3</sup></a>,
-  <a href="#" target="_blank">Haofan Wang<sup>4</sup></a>,
-  <a href="#" target="_blank">Binxin Yang<sup>5</sup></a>,
-  <a href="#" target="_blank">Hubery Yin<sup>6</sup></a>,
-  <a href="#" target="_blank">Chen Li<sup>6</sup></a>,
-  <a href="#" target="_blank">Ziwei Liu<sup>6</sup></a>,
+  <a href="https://scholar.google.com/citations?user=FkkaUgwAAAAJ&hl=en" target="_blank">Zhengyao Lv<sup>2</sup></a>,
+  <a href="https://tianlinn.com/" target="_blank">Tianlin Pan<sup>3</sup></a>,
+  <a href="https://haofanwang.github.io/" target="_blank">Haofan Wang<sup>4</sup></a>,
+  <a href="https://binxinyang.github.io/" target="_blank">Binxin Yang<sup>5</sup></a>,
+  <a href="https://openreview.net/profile?id=~Hubery_Yin1" target="_blank">Hubery Yin<sup>6</sup></a>,
+  <a href="https://scholar.google.com/citations?user=WDJL3gYAAAAJ&hl=zh-CN" target="_blank">Chen Li<sup>6</sup></a>,
+  <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu<sup>6</sup></a>,
   <a href="https://chenyangsi.top/" target="_blank">Chenyang Si<sup>1</sup></a>
 </p>
 
 <p align="center">
-  <sup>1</sup>PRLab, Nanjing University &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>1</sup><a href="https://prlab-nju.com/" target="_blank">PRLab, Nanjing University</a> &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>2</sup>The University of Hong Kong &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>3</sup>University of Chinese Academy of Sciences &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>4</sup>Lovart AI &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>5</sup>WeChat, Tencent Inc. &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>6</sup>Nanyang Technological University
 </p>
+
 
 <!-- 如果你有 equal contribution / corresponding author，就打开这一段 -->
 <!--
