@@ -19,7 +19,7 @@
   <sup>1</sup><a href="https://prlab-nju.com/" target="_blank">PRLab, Nanjing University</a> &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>2</sup>The University of Hong Kong &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>3</sup>University of Chinese Academy of Sciences &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sup>4</sup>Lovart AI &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>4</sup>LibLib.ai &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>5</sup>WeChat, Tencent Inc. &nbsp;&nbsp;·&nbsp;&nbsp;
   <sup>6</sup>Nanyang Technological University
 </p>
