@@ -75,7 +75,7 @@
 Long-horizon interactive video generation often suffers from **spatial drift** and **scene collapse**.  
 We find that a major source of instability is **error accumulation, especially within the same scene**: small drifts accumulate under the same viewpoint, eventually leading to the collapse of the entire scene.
 
-**This perspective is fundamentally different from the commonly discussed error accumulation caused by the train–inference mismatch, and we find that scene collapse mainly originates from this source.**
+**This perspective is different from the commonly discussed error accumulation caused by the train–inference mismatch, and we find that scene collapse mainly originates from this source.**
 
 As illustrated below:
 
