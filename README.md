@@ -73,14 +73,20 @@
 ## 🔥 Why Interactive Video Generation Becomes Unstable?
 
 Long-horizon interactive video generation often suffers from **spatial drift** and **scene collapse**.  
-We find that a major source of instability is **error accumulation within the same scene**: small drifts accumulate under the same viewpoint, eventually leading to the collapse of the entire scene.
+We find that a major source of instability is **error accumulation, especially within the same scene**: small drifts accumulate under the same viewpoint, eventually leading to the collapse of the entire scene.
+
+**This perspective is fundamentally different from the commonly discussed error accumulation caused by the train–inference mismatch, and we find that scene collapse mainly originates from this source.**
 
 As illustrated below:
 
 ![Error accumulation under a fixed viewpoint](https://github.com/xbyym/StableWorld/blob/main/show1_01.png?raw=true)
+
 Small drifts may seem negligible at first, but when repeatedly accumulated under the same viewpoint, they gradually grow and eventually lead to severe scene collapse.
 
 **StableWorld** addresses this issue at the root by **continuously filtering out degraded frames** while **retaining geometrically consistent ones**, preventing drift from compounding over time.
+
+**When the scene changes extremely rapidly (e.g., multiple visual changes per second), errors do not have sufficient time to accumulate, resulting in much less frequent scene collapse.**
+
 
 ---
 
