@@ -66,7 +66,7 @@
 - [x] Paper released  
 - [x] Project page released  
 - [x] Demo videos released  
-- [ ] Code coming soon  
+- [x] Code released 
 
 ---
 
