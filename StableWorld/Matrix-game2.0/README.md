@@ -85,17 +85,6 @@ python inference.py \
 - In the current version, upward movement for camera may cause brief rendering glitches (e.g., black screens). A fix is planned for future updates. Adjust movement slightly or change direction to resolve it.
 
 
-## ⭐ Acknowledgements
-
-We would like to express our gratitude to:
-
-- [Diffusers](https://github.com/huggingface/diffusers) for their excellent diffusion model framework
-- [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) for their strong base model
-- [Self-Forcing](https://github.com/guandeh17/Self-Forcing) for their excellent work
-- [GameFactory](https://github.com/KwaiVGI/GameFactory) for their idea of action control module
-- [MineRL](https://github.com/minerllabs/minerl) for their excellent gym framework
-- [Video-Pre-Training](https://github.com/openai/Video-Pre-Training) for their accurate Inverse Dynamics Model
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
