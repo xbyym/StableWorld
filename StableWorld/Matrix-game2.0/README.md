@@ -4,9 +4,6 @@
 <h3 align="center">A Stable Interactive Video Generation Framework with Matrix-Game-2.0 as One of Its Base Models</h3>
 </p>
 
-<font size=7><div align='center' >  [[🤗 HuggingFace](https://huggingface.co/Skywork/Matrix-Game-2.0)] [[📖 Technical Report](https://matrix-game-v2.github.io/static/pdf/report.pdf)] [[📑 arXiv](https://arxiv.org/abs/2508.13009)] [[🚀 Project Website](https://matrix-game-v2.github.io/)] </div></font>
-
-https://github.com/user-attachments/assets/336b0d4a-64f5-4e5c-9b60-6212ddb261c0
 
 ## 📝 Overview
 **StableWorld** is a framework for stable and consistent long interactive video generation. **Matrix-Game-2.0** is one of the base models used in this project rather than the project name itself. On top of the original auto-regressive diffusion-based image-to-world framework, StableWorld adds a stability-oriented eviction strategy for long-horizon interactive video synthesis.
