@@ -16,22 +16,6 @@ from utils.conditions import *
 from utils.wan_wrapper import WanDiffusionWrapper
 from safetensors.torch import load_file
 
-import debugpy
-
-
-# debugpy.listen(("29.224.25.58", 5977))
-# print("Waiting for debugger to attach...")
-
-# # 等待调试器连接
-# debugpy.wait_for_client()
-# print("Debugger is attached!")
-
-# debugpy.listen(("29.224.165.58", 5997))
-# print("Waiting for debugger to attach...")
-
-# # 等待调试器连接
-# debugpy.wait_for_client()
-# print("Debugger is attached!")
 
 def parse_args():
     parser = argparse.ArgumentParser()
