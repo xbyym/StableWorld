@@ -1,9 +1,11 @@
-
 <p align="center">
 <h1 align="center">StableWorld: Towards Stable and Consistent Long Interactive Video Generation</h1>
 <h3 align="center">A Stable Interactive Video Generation Framework with Matrix-Game-2.0 as One of Its Base Models</h3>
 </p>
 
+<font size=7><div align='center' >  [[🤗 HuggingFace](https://huggingface.co/Skywork/Matrix-Game-2.0)] [[📖 Technical Report](https://matrix-game-v2.github.io/static/pdf/report.pdf)] [[📑 arXiv](https://arxiv.org/abs/2508.13009)] [[🚀 Project Website](https://matrix-game-v2.github.io/)] </div></font>
+
+https://github.com/user-attachments/assets/336b0d4a-64f5-4e5c-9b60-6212ddb261c0
 
 ## 📝 Overview
 **StableWorld** is a framework for stable and consistent long interactive video generation. **Matrix-Game-2.0** is one of the base models used in this project rather than the project name itself. On top of the original auto-regressive diffusion-based image-to-world framework, StableWorld adds a stability-oriented eviction strategy for long-horizon interactive video synthesis.
@@ -103,10 +105,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Citation
 If you find this codebase useful for your research, please kindly cite our paper:
 ```
-@article{stableworld2026,
-  title={StableWorld: Towards Stable and Consistent Long Interactive Video Generation},
-  author={Ying Yang and Zhengyao Lv and Tianlin Pan and Haofan Wang and Binxin Yang and Hubery Yin and Chen Li and Ziwei Liu and Chenyang Si},
-  journal={arXiv preprint arXiv:2601.15281},
-  year={2026}
-}
+  @article{he2025matrix,
+    title={Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model},
+    author={He, Xianglong and Peng, Chunli and Liu, Zexiang and Wang, Boyang and Zhang, Yifan and Cui, Qi and Kang, Fei and Jiang, Biao and An, Mengyin and Ren, Yangyang and Xu, Baixin and Guo, Hao-Xiang and Gong, Kaixiong and Wu, Cyrus and Li, Wei and Song, Xuchen and Liu, Yang and Li, Eric and Zhou, Yahui},
+    journal={arXiv preprint arXiv:2508.13009},
+    year={2025}
+  }
 ```
