@@ -106,10 +106,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Citation
 If you find this codebase useful for your research, please kindly cite our paper:
 ```
-  @article{he2025matrix,
-    title={Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model},
-    author={He, Xianglong and Peng, Chunli and Liu, Zexiang and Wang, Boyang and Zhang, Yifan and Cui, Qi and Kang, Fei and Jiang, Biao and An, Mengyin and Ren, Yangyang and Xu, Baixin and Guo, Hao-Xiang and Gong, Kaixiong and Wu, Cyrus and Li, Wei and Song, Xuchen and Liu, Yang and Li, Eric and Zhou, Yahui},
-    journal={arXiv preprint arXiv:2508.13009},
-    year={2025}
-  }
+@article{stableworld2026,
+  title={StableWorld: Towards Stable and Consistent Long Interactive Video Generation},
+  author={Ying Yang and Zhengyao Lv and Tianlin Pan and Haofan Wang and Binxin Yang and Hubery Yin and Chen Li and Ziwei Liu and Chenyang Si},
+  journal={arXiv preprint arXiv:2601.15281},
+  year={2026}
+}
 ```
