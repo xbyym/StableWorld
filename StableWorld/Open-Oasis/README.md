@@ -1,9 +1,5 @@
-````markdown
-<p align="center">
-  <h1 align="center">StableWorld: Towards Stable and Consistent Long Interactive Video Generation</h1>
-  <h3 align="center">A Stable Interactive Video Generation Framework with Oasis-500M as One of Its Base Models</h3>
-</p>
-
+<h1 align="center">StableWorld: Towards Stable and Consistent Long Interactive Video Generation</h1>
+<h3 align="center">An interactive video generation framework built on Oasis-500M</h3>
 
 ## 📝 Overview
 
