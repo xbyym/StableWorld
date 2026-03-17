@@ -47,7 +47,8 @@ python inference.py \
     --output_folder outputs \
     --num_output_frames 150 \
     --seed 42 \
-    --pretrained_model_path {path-to-the-vae-folder}
+    --pretrained_model_path {path-to-the-vae-folder} \
+    --evict_mode False
 ```
 Or, you can use the script `inference_streaming.py` for generating the interactive videos with your own input actions and images:
 ```
