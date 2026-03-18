@@ -88,7 +88,7 @@ python inference.py \
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
+## 📚 Citation
 If you find this codebase useful for your research, please kindly cite our paper:
 ```
 @article{stableworld2026,
