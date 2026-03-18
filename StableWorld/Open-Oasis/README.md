@@ -5,7 +5,7 @@
 
 **StableWorld** is a framework for stable and consistent long interactive video generation. In this repository, **Oasis-500M** is used as one of the base world models rather than the project name itself.
 
-Built on top of the original action-conditioned autoregressive diffusion framework, StableWorld introduces a **stability-oriented eviction strategy** for long-horizon interactive video synthesis. Instead of always applying naive FIFO sliding-window truncation, StableWorld performs **similarity-aware history updates** to preserve cleaner visual memories and improve temporal consistency over long rollouts.
+Built on top of the original action-conditioned autoregressive diffusion framework, StableWorld introduces a **stability-oriented eviction strategy** for long-horizon interactive video synthesis. 
 
 This repository supports both:
 
@@ -20,10 +20,8 @@ This repository supports both:
 - **StableWorld eviction strategy** for long-horizon generation
 - Support for both:
   - **vanilla Oasis sliding-window inference**
-  - **StableWorld similarity-aware eviction inference**
-- Image-prompt and video-prompt based generation
+  - **StableWorld orb-based eviction inference**
 - Action-conditional autoregressive sampling
-- Easy switching between original and StableWorld modes through command-line arguments
 
 ---
 
@@ -47,19 +45,6 @@ We tested this repository on the following setup:
 - Python **3.10**
 - CUDA-compatible PyTorch environment
 
-Main dependencies:
-
-- `torch`
-- `torchvision`
-- `einops`
-- `diffusers`
-- `timm`
-- `av`
-- `opencv-python`
-- `imageio`
-- `safetensors`
-- `tqdm`
-
 ---
 
 ## ⚙️ Installation
@@ -67,6 +52,13 @@ Main dependencies:
 Install the dependencies inside your current repository:
 
 ```bash
+Create a conda environment and install dependencies:
+```
+conda create -n Stableoasis python=3.10 -y
+conda activate Stableoasis
+git clone https://github.com/xbyym/StableWorld.git
+cd  StableWorld/Open-Oasis
+
 # Install PyTorch
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
 
