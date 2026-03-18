@@ -20,12 +20,12 @@ We tested this repo on the following setup:
 ## Installation
 Create a conda environment and install dependencies:
 ```
-conda create -n matrix-game-2.0 python=3.10 -y
-conda activate matrix-game-2.0
+conda create -n Stablematrix python=3.10 -y
+conda activate Stablematrix
 # install apex and FlashAttention
 # Our project also depends on [FlashAttention](https://github.com/Dao-AILab/flash-attention)
-git clone https://github.com/SkyworkAI/Matrix-Game.git
-cd Matrix-Game-2
+git clone https://github.com/xbyym/StableWorld.git
+cd  StableWorld/Matrix-Game2.0
 pip install -r requirements.txt
 python setup.py develop
 ```
