@@ -10,7 +10,7 @@
 
 We provide three pretrained model weights including universal scenes, GTA driving scene and TempleRun game scene. Please refer to our HuggingFace page to reach these resources.
 
-## Requirements
+## 📦 Requirements
 We tested this repo on the following setup:
 * Nvidia GPU with at least 24 GB memory (A100, and H100 are tested).
 * Linux operating system.
