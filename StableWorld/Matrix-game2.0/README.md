@@ -8,7 +8,6 @@
 ## 📝 Overview
 **StableWorld** is a framework for stable and consistent long interactive video generation. **Matrix-Game-2.0** is one of the base models used in this project rather than the project name itself. On top of the original auto-regressive diffusion-based image-to-world framework, StableWorld adds a stability-oriented eviction strategy for long-horizon interactive video synthesis.
 
-## 🤗 StableWorld Model
 We provide three pretrained model weights including universal scenes, GTA driving scene and TempleRun game scene. Please refer to our HuggingFace page to reach these resources.
 
 ## Requirements
