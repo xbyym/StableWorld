@@ -50,7 +50,7 @@ We tested this repository on the following setup:
 ## ⚙️ Installation
 
 Install the dependencies inside your current repository:
-
+````
 ```bash
 Create a conda environment and install dependencies:
 ```
