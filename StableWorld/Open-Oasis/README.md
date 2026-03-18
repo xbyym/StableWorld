@@ -56,7 +56,7 @@ Create a conda environment and install dependencies:
 ```
 conda create -n Stableoasis python=3.10 -y
 conda activate Stableoasis
-git clone https://github.com/xbyym/StableWorld.git
+git clone https://github.com/xbyym/StableWorld.git  ##If you have already cloned, then skip this step.
 cd  StableWorld/Open-Oasis
 
 # Install PyTorch
