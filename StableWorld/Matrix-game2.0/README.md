@@ -43,7 +43,6 @@ After downloading pretrained models, you can use the following command to genera
 python inference.py \
     --config_path configs/inference_yaml/{your-config}.yaml \
     --checkpoint_path {path-to-the-checkpoint} \
-    --img_path {path-to-the-input-image} \
     --output_folder outputs \
     --num_output_frames 150 \
     --seed 42 \
@@ -73,7 +72,6 @@ Example with StableWorld enabled:
 python inference.py \
     --config_path configs/inference_yaml/inference_universal.yaml \
     --checkpoint_path {path-to-the-checkpoint} \
-    --img_path {path-to-the-input-image} \
     --output_folder outputs \
     --num_output_frames 150 \
     --seed 42 \
