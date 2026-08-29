@@ -6,23 +6,42 @@
 <p align="center">
   <a href="https://github.com/xbyym" target="_blank">Ying Yang<sup>1</sup></a>,
   <a href="https://scholar.google.com/citations?user=FkkaUgwAAAAJ&hl=en" target="_blank">Zhengyao Lv<sup>1,2</sup></a>,
-  <a href="https://tianlinn.com/" target="_blank">Tianlin Pan<sup>1,3</sup></a>,
-  <a href="https://haofanwang.github.io/" target="_blank">Haofan Wang<sup>4</sup></a>,
-  <a href="https://binxinyang.github.io/" target="_blank">Binxin Yang<sup>5</sup></a>,
+  <a href="https://www.yujiazeng.com/" target="_blank">Yujia Zeng<sup>3</sup></a>,
+  <a href="https://tianlinn.com/" target="_blank">Tianlin Pan<sup>1,4</sup></a>,
+  <a href="https://haofanwang.github.io/" target="_blank">Haofan Wang<sup>5</sup></a>,
+  Yueming Lyu<sup>1</sup>,
+  <a href="https://binxinyang.github.io/" target="_blank">Binxin Yang<sup>6</sup></a>,
   <a href="https://openreview.net/profile?id=~Hubery_Yin1" target="_blank">Hubery Yin<sup>6</sup></a>,
   <a href="https://scholar.google.com/citations?user=WDJL3gYAAAAJ&hl=zh-CN" target="_blank">Chen Li<sup>6</sup></a>,
-  <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu<sup>6</sup></a>,
-  <a href="https://chenyangsi.top/" target="_blank">Chenyang Si<sup>1</sup></a>
+  Jing LYU<sup>6</sup>,
+  <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu<sup>7</sup></a>,
+  <a href="https://chenyangsi.top/" target="_blank">Chenyang Si<sup>1</sup></a><sup>†</sup>
 </p>
 
+<p align="center">
+  <sup>1</sup>PRLab, Nanjing University, China &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>2</sup>The University of Hong Kong, Hong Kong SAR, China &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>3</sup>University of California, Berkeley, USA &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>4</sup>University of Chinese Academy of Sciences, China &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>5</sup>LibLib.ai, China &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>6</sup>WeChat, Tencent Inc., China &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>7</sup>Nanyang Technological University, Singapore
+</p>
 
 <p align="center">
-  <sup>1</sup>PRLab, Nanjing University &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sup>2</sup>The University of Hong Kong &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sup>3</sup>University of Chinese Academy of Sciences &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sup>4</sup>LibLib.ai &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sup>5</sup>WeChat, Tencent Inc. &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sup>6</sup>Nanyang Technological University
+  <i>† Corresponding Author</i>
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2601.15281">
+    <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat&logo=arxiv" height="22">
+  </a>
+  <a href="https://sd-world.github.io/">
+    <img src="https://img.shields.io/badge/Project-Page-blue?style=flat&logo=google-chrome" height="22">
+  </a>
+  <a href="https://github.com/Sd-World">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github" height="22">
+  </a>
 </p>
 
 
@@ -123,7 +142,8 @@ If you find this work helpful, please consider citing:
 ```bibtex
 @article{stableworld2026,
   title={StableWorld: Towards Stable and Consistent Long Interactive Video Generation},
-  author={Ying Yang and Zhengyao Lv and Tianlin Pan and Haofan Wang and Binxin Yang and Hubery Yin and Chen Li and Ziwei Liu and Chenyang Si},
+  author={Ying Yang and Zhengyao Lv and Yujia Zeng and Tianlin Pan and Haofan Wang and Yueming Lyu and Binxin Yang and Hubery Yin and Chen Li and Jing LYU and Ziwei Liu and Chenyang Si},
   journal={arXiv preprint arXiv:2601.15281},
   year={2026}
 }
+```
