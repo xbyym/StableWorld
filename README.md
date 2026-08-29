@@ -45,25 +45,6 @@
 </p>
 
 
-<!-- 如果你有 equal contribution / corresponding author，就打开这一段 -->
-<!--
-<p align="center">
-  <i>* Equal Contribution &nbsp;&nbsp;&nbsp; † Corresponding Author</i>
-</p>
--->
-
-<p align="center">
-  <a href="https://arxiv.org/abs/2601.15281">
-    <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat&logo=arxiv" height="22">
-  </a>
-  <a href="https://sd-world.github.io/">
-    <img src="https://img.shields.io/badge/Project-Page-blue?style=flat&logo=google-chrome" height="22">
-  </a>
-  <a href="https://github.com/Sd-World">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github" height="22">
-  </a>
-</p>
-
 ---
 
 ## 🎥 Video Demo
